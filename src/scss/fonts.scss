@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Noto-light';
+  src: url("../assets/fonts/noto-sans-display-light.woff2") format("woff2"), url("../assets/fonts/noto-sans-display-light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto-regular';
+  src: url("../assets/fonts/noto-sans-display-regular.woff2") format("woff2"), url("../assets/fonts/noto-sans-display-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto-medium';
+  src: url("../assets/fonts/noto-sans-display-medium.woff2") format("woff2"), url("../assets/fonts/noto-sans-display-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto-semibold';
+  src: url("../assets/fonts/noto-sans-display-semibold.woff2") format("woff2"), url("../assets/fonts/noto-sans-display-semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto-bold';
+  src: url("../assets/fonts/noto-sans-display-bold.woff2") format("woff2"), url("../assets/fonts/noto-sans-display-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
